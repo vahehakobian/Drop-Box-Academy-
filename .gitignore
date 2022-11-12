@@ -1,0 +1,19 @@
+# Idea fils
+.idea
+.history
+.vscode/
+
+# MacOs
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Environment vars
+.env
+
+# Logs
+*.log
+
+# Uploads Files
+uploads/
